@@ -1,6 +1,6 @@
 # AWS RDS Terraform module
 
-Terraform module which creates RDS resources on AWS.
+TerraTomc module which creates RDS resources on AWS.
 
 These types of resources are supported:
 
